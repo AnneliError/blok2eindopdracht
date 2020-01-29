@@ -1,0 +1,19 @@
+ul {
+  background-color: #222931;
+  width: 950px;
+  position: relative;
+  top: 0;
+  left: 259.6px;
+
+}
+p {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+header {
+width: 100%;
+position: relative;
+top: 45px;
+}
